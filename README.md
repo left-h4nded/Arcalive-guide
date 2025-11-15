@@ -20,7 +20,7 @@ As for gacha games modding there are two main groups:
   Characters' names in korean:
   - Genshin: https://genshin-builds.com/ko/characters
   - HSR: https://genshin-builds.com/ko/hsr
-  - ZZZ: https://genshin-builds.com/ko/zenless
+  - ZZZ: https://zzz.gg/ko/characters
   - Wuwa: https://genshin-builds.com/ko/wuthering-waves
    
 ![bottom of page](images/2.png)
