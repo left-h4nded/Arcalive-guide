@@ -14,7 +14,7 @@ You don't have to register unless you want NSFW mods.
 As for gacha games modding there are two main groups:
   - **미호요스킨모드 채널** - Genshin, HSR, ZZZ
   - **명조 모딩 채널** - Wuwa
-- Bottom Search Bar: you can find posts and mods. There you can enter korean names of characters.  
+- Bottom Search Bar: you can find posts and mods. There you can enter character or mod name.  
   Characters' names in korean:
   - Genshin: https://genshin-builds.com/ko/characters
   - HSR: https://genshin-builds.com/ko/hsr
@@ -22,3 +22,15 @@ As for gacha games modding there are two main groups:
   - Wuwa: https://genshin-builds.com/ko/wuthering-waves
    
 ![bottom of page](images/2.png)
+
+## 2) Mod Page ##
+![mod page](images/4.png)  
+
+
+In the post there will be a string of letters and numbers which you have to decode using  
+[Base64 online decoder](https://www.base64decode.org/) (after decoding it will give you a link to download mod)  
+**Note:** In rare cases, you may need to decode it more than once.
+
+![string](images/5.1.png)  
+
+![decoding](images/5.2.png)
