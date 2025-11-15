@@ -42,8 +42,8 @@ To download it, you have to enter the password (sometimes there are mods without
 
 ![DL page](images/6.png)
 ### Note:   
-If the <ins>Kiosk</ins> link leads to homepage - it’s most likely expired since they usually last only one month.
-(you can try to look for reuploads. Look for the recent posts with word 제업 or ㅈㅇ + mod name)  
+If the <ins>Kiosk</ins> link leads to homepage - it’s most likely expired since they usually last only one month.  
+You can try finding reupload of mods. Search for the recent posts with word 제업 or ㅈㅇ + mod name  
 
 ![reupload](images/reupload.png)  
 
