@@ -37,7 +37,7 @@ In the post there will be a string of letters and numbers which you have to deco
 
 ![decoding](images/5.2.png)  
 
-Now you are on the mod download page (most likely Nahidalive or Kiosk)
+Now you are on the mod download page (most likely Nahidalive or Kiosk)  
 To download it, you have to enter the password (sometimes there are mods without password)   
 
 ![DL page](images/6.png)
