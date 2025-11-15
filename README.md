@@ -165,7 +165,7 @@ In these two examples above if you kinda "squish" these symbols you can kinda ca
 
 At this point I'm sorry but there is no way someone can solve it without knowing korean...  
 Symbols itself arranged in the shape of "국룰" and those symbols make other words...  
-An the last one is f#cked up because every character here is wrong and the result just _resembles_ the right word lmao
+And the last one is f#cked up because every character here is wrong and the result just _resembles_ the right word lmao
 But good think that author of these puzzles is tired of making them so I hope it won't show up in future lol  
 
 ### 6) Whatever uploader wanted. It can be literally anything 💀  
