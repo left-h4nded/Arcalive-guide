@@ -1,3 +1,4 @@
+Korean words list: [link](https://github.com/left-h4nded/Arcalive-guide/blob/main/korean%20words%20list.md) / Arcalive emoticons list: [link#1](https://imgur.com/a/arcalive-emoticons-list-5iPEi8C) [link#2](https://imgur.com/a/rip-eyes-lol-EjGQFGA)
 # How to download korean mods from Arcalive
 To respect the Korean community I won't share any arcalive links, passwords and mods itself.
 This guide is made to help you get mods **yourself**. Koreans don't mind you downloading their mods as
@@ -58,3 +59,24 @@ So how to find it? Click on **공지** then scroll down and look for **the post 
 
 ![how to find nr](images/9.png)
 
+### Note: just in case, DO NOT ENTER 국룰 itself lol  
+
+![how to find nr](images/10.png)  
+
+### For Wuwa players:  
+
+Unlike Hoyoverse modding community, Wuwa’s password is easily accessible:
+
+![wuwa](images/11_wuwa_nr.png)
+
+So… is “*******” = password for downloading all korean mods? Partially... Let me explain in the next section! :D
+
+## Types Of Password
+
+### 1) The most simple one and yeah, that's just national rule itself  
+
+### 2) National rule + numbers or symbols
+it can be:
+- character's birthday/attribute/vision/path/whatever
+- date of upload or any other date
+- special characters (ex: 국룰@)
