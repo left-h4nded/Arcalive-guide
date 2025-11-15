@@ -118,4 +118,18 @@ There is a tool for converting egnlish keyboard to korean:
 
 ![img](images/15.1_conversion.png)  
 
-![img](images/15.2_conversion.png)
+![img](images/15.2_conversion.png)  
+
+### 4) Passwords with pictures  
+
+Uploader uses random picture with text on it for their password which looks like something like this:
+
+![img](images/16.png)  
+
+These pictures are called 아카콘 or Arcacon (Arca+emoticon). You can try to translate text on them but most of the time you just have to add text from picture to password.  
+This website can help you with text on those pictures: 
+- https://kanji.reader.bz/korean/
+
+Just draw what you see as accurate as you can and it will convert your drawing to an actual text. (examples shown below)  
+
+![example](images/17.png)
