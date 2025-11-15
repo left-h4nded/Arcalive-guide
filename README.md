@@ -84,7 +84,7 @@ it can be:
 There are so many variants so people who upload mods should clarify it as:  
 national rule + something (this can be text, pictures, or a GIF, as shown below) 
 
-Here are lists of pictures they attach to password that I've translated (These pictures are not used as often lately tho)
+❗Here are lists of pictures they attach to password that I've translated (These pictures are not used as often lately tho)
 
 - List 1: https://imgur.com/a/arcalive-emoticons-list-5iPEi8C 
 - List 2: https://imgur.com/a/rip-eyes-lol-EjGQFGA (these are very rare)
@@ -113,7 +113,7 @@ For a better understanding take a look on korean keyboard:
 
 “ㅎ두노ㅑㅜ” is <ins>not a translation</ins> for “genshin”, it’s just random korean letters
 
-There is a tool for converting egnlish keyboard to korean:  
+❗There is a tool for converting egnlish keyboard to korean:  
 - Link: https://wepplication.github.io/tools/eng2Kor/
 
 ![img](images/15.1_conversion.png)  
@@ -131,5 +131,34 @@ This website can help you with text on those pictures:
 - https://kanji.reader.bz/korean/
 
 Just draw what you see as accurate as you can and it will convert your drawing to an actual text. (examples shown below)  
+_Note:_ if there are special characters in image's text, in 90% cases you should exclude them unless told otherwise.
 
-![example](images/17.png)
+![example](images/17.png)  
+
+Korean alphabet and syllables below for reference
+
+![img](images/18_hangul.png)  
+
+![img](images/19_syllables.png)  
+
+![img](images/20_handwritten.png)  
+
+
+On some pictures it's quite difficult to determine what symbols are there if you don’t know korean (especially if it's handwritten letters 🙁)  
+You can ask someone else or try to learn hangul, it’s pretty simple tbh  
+Also I can’t make a list with these pictures because there are hundreds of them and new ones uploaded almost everyday…
+
+### 5) Words but each symbol is separated
+
+This type of password appeared recently :v  
+As the name says, uploader writes word which you have to add to N.Rule but each symbol is separated  
+
+![img](images/wtf1.png)  
+
+![img](images/wtf2.png)  
+In these two examples above if you kinda "squish" these symbols you can kinda can see the word.  
+
+![img](images/wtf3.png)  
+
+![img](images/wtf4.png)
+
