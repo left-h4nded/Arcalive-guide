@@ -77,6 +77,20 @@ So… is “*******” = password for downloading all korean mods? Partially... 
 
 ### 2) National rule + numbers or symbols
 it can be:
-- character's birthday/attribute/vision/path/whatever
+- character's name/birthday/attribute/vision/path/whatever
 - date of upload or any other date
-- special characters (ex: 국룰@)
+- special characters (@,!,#,%,etc.)
+
+There are so many variants so people who upload mods should clarify it as:  
+national rule + something (this can be text, pictures, or a GIF, as shown below) 
+
+Here are lists of pictures they attach to password that I've translated (These pictures are not used as often lately tho)
+
+- List 1: https://imgur.com/a/arcalive-emoticons-list-5iPEi8C 
+- List 2: https://imgur.com/a/rip-eyes-lol-EjGQFGA (these are very rare)
+
+❗ https://pastebin.com/d4XFd1Ei - List with korean words you may encounter on Arca which is regularly updated.
+
+![examples](images/12.png)
+
+
