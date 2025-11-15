@@ -40,7 +40,7 @@ To download it, you have to enter the password (sometimes there are mods without
 
 ![DL page](images/6.png)
 ### Note:   
-If the Kiosk link leads to homepage - it’s most likely expired since they usually last only one month.
+If the <ins>Kiosk</ins> link leads to homepage - it’s most likely expired since they usually last only one month.
 (you can try to look for reuploads. Look for the recent posts with word 제업 or ㅈㅇ + mod name)  
 
 ![reupload](images/reupload.png)  
@@ -50,5 +50,11 @@ If the Kiosk link leads to homepage - it’s most likely expired since they usua
 So what the hell is “**국룰**” or “**ㄱㄹ**” (Also known as “_national rule_”)?  
 It's korean slang and to put it simply, national rule is something obvious that everyone should know. In this case it’s the secret word that koreans know and instead of mentioning it they simply say “국룰”  
 
-So how to find it? Click on **공지** then scroll down and look for **the post with title "국룰"**
+So how to find it? Click on **공지** then scroll down and look for **the post with title "국룰"**  
+
+![how to find nr](images/7.png)  
+
+![how to find nr](images/8.png)  
+
+![how to find nr](images/9.png)
 
