@@ -128,8 +128,8 @@ Uploader uses random picture with text on it for their password which looks like
 ![img](images/16.png)  
 
 These pictures are called 아카콘 or Arcacon (Arca+emoticon). You can try to translate text on them but most of the time you just have to add text from picture to password.  
-This website can help you with text on those pictures: 
-❗- https://kanji.reader.bz/korean/
+❗This website can help you with text on those pictures:  
+- https://kanji.reader.bz/korean/
 
 Just draw what you see as accurate as you can and it will convert your drawing to an actual text. (examples shown below)  
 _Note:_ if there are special characters in image's text, in 90% cases you should exclude them unless told otherwise.
@@ -149,7 +149,7 @@ On some pictures it's quite difficult to determine what symbols are there if you
 You can ask someone else or try to learn hangul, it’s pretty simple tbh  
 Also I can’t make a list with these pictures because there are hundreds of them and new ones uploaded almost everyday…
 
-### 5) Words but each symbol is separated
+### 5) Words with its each symbol separated
 
 This type of password appeared recently :v  
 As the name says, uploader writes word which you have to add to N.Rule but each symbol is separated  
@@ -163,3 +163,5 @@ In these two examples above if you kinda "squish" these symbols you can kinda ca
 
 ![img](images/wtf4.png)
 
+At this point I'm sorry but there is no way someone can solve it without knowing korean...  
+Symbols itself arranged in the shape of "국룰" and those symbols make other words...
