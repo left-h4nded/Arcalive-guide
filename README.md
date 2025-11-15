@@ -114,7 +114,7 @@ For a better understanding take a look on korean keyboard:
 
 “ㅎ두노ㅑㅜ” is <ins>not a translation</ins> for “genshin”, it’s just random korean letters
 
-❗There is a tool for converting egnlish keyboard to korean:  
+❗There is a tool for converting egnlish keyboard to korean and vice versa:  
 - Link: https://wepplication.github.io/tools/eng2Kor/
 
 ![img](images/15.1_conversion.png)  
