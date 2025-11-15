@@ -94,7 +94,7 @@ national rule + something (this can be text, pictures, or a GIF, as shown below)
 
 ![examples](images/12.png)
 
-Next are more "special" types of passwords! :D
+Next we have more "special" types of passwords! :D
 
 ### 3) English/Korean keyboard layout conversion shenanigans  
 
