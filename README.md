@@ -1,4 +1,5 @@
-Korean words list: [link](https://github.com/left-h4nded/Arcalive-guide/blob/main/korean%20words%20list.md) / Arcalive emoticons list: [link#1](https://imgur.com/a/arcalive-emoticons-list-5iPEi8C) [link#2](https://imgur.com/a/rip-eyes-lol-EjGQFGA)
+📰Korean words list: [link](https://github.com/left-h4nded/Arcalive-guide/blob/main/korean%20words%20list.md) / Arcalive emoticons list: [link#1](https://imgur.com/a/arcalive-emoticons-list-5iPEi8C) [link#2](https://imgur.com/a/rip-eyes-lol-EjGQFGA)  
+🛠️Tools: [Layout converter](https://wepplication.github.io/tools/eng2Kor/) / [kanji reader](https://kanji.reader.bz/korean/)
 # How to download korean mods from Arcalive
 To respect the Korean community I won't share any arcalive links, passwords and mods itself.
 This guide is made to help you get mods **yourself**. Koreans don't mind you downloading their mods as
@@ -128,7 +129,7 @@ Uploader uses random picture with text on it for their password which looks like
 
 These pictures are called 아카콘 or Arcacon (Arca+emoticon). You can try to translate text on them but most of the time you just have to add text from picture to password.  
 This website can help you with text on those pictures: 
-- https://kanji.reader.bz/korean/
+❗- https://kanji.reader.bz/korean/
 
 Just draw what you see as accurate as you can and it will convert your drawing to an actual text. (examples shown below)  
 _Note:_ if there are special characters in image's text, in 90% cases you should exclude them unless told otherwise.
