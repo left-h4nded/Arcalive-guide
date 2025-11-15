@@ -5,7 +5,7 @@ long as you do it quietly and don't spam everywhere things like "password pls" a
 
 ![announcement](images/0.png)
 
-## 1) This is what Arcalive looks like ## 
+## 1) This is what Arcalive looks like  
 You don't have to register unless you want NSFW mods.  
 
 ![mainpage](images/1.png)  
@@ -23,7 +23,7 @@ As for gacha games modding there are two main groups:
    
 ![bottom of page](images/2.png)
 
-## 2) Mod Page ##
+## 2) Mod Page 
 ![mod page](images/4.png)  
 
 
@@ -33,4 +33,14 @@ In the post there will be a string of letters and numbers which you have to deco
 
 ![string](images/5.1.png)  
 
-![decoding](images/5.2.png)
+![decoding](images/5.2.png)  
+
+Now you are on the mod download page (most likely Nahidalive or Kiosk)
+To download it, you have to enter the password (sometimes there are mods without password)   
+
+![DL page](images/6.png)
+### Note:   
+If the Kiosk link leads to homepage - it’s most likely expired since they usually last only one month.
+(you can try to look for reuploads. Look for the recent posts with word 제업 or ㅈㅇ + mod name)  
+
+![reupload](images/reupload.png)
