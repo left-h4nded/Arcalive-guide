@@ -89,8 +89,26 @@ Here are lists of pictures they attach to password that I've translated (These p
 - List 1: https://imgur.com/a/arcalive-emoticons-list-5iPEi8C 
 - List 2: https://imgur.com/a/rip-eyes-lol-EjGQFGA (these are very rare)
 
-❗ https://pastebin.com/d4XFd1Ei - List with korean words you may encounter on Arca which is regularly updated.
+❗ [List](https://github.com/left-h4nded/Arcalive-guide/blob/main/korean%20words%20list.md) with korean words you may encounter on Arca which is regularly updated.
 
 ![examples](images/12.png)
 
+Next are more "special" types of passwords! :D
 
+### 3) English/Korean keyboard layout conversion shenanigans  
+
+Some people have encountered 한타/영타/영문 combined with national rule:
+
+![example](images/13.png)  
+
+- 한타 - Korean layout (it's called "Hanta")
+- 영타 or 영문 - English layout
+
+How this works: you type korean words using an english keyboard or vice versa  
+(not translating, you are just “on wrong” keyboard. People who use multiple layouts might understand 😉)  
+
+For a better understanding take a look on korean keyboard:
+
+![example](images/14_hanta.jpg)
+
+“ㅎ두노ㅑㅜ” is <ins>not a translation</ins> for “genshin”, it’s just random korean letters
