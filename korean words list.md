@@ -14,6 +14,10 @@
 
 ㅈㅅㅇ (작성일) - date of upload
 
+업로드 - upload  
+
+제업 or ㅈㅇ - reupload
+
 출시일 - release date
 
 한타 ( sometimes 한글타자) - korean layout (Hanta. explained in the guide, check "special type of passwords" section)
