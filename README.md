@@ -5,8 +5,8 @@ long as you do it quietly and don't spam everywhere things like "password pls" a
 
 ![announcement](images/0.png)
 
-## 1) This is what Arcalive looks like  
-You don't have to register unless you want NSFW mods.  
+## 1) Main Page
+This is what Arcalive looks like. You don't have to register unless you want NSFW mods.  
 
 ![mainpage](images/1.png)  
 ![how to change language](images/language.png)
@@ -43,4 +43,12 @@ To download it, you have to enter the password (sometimes there are mods without
 If the Kiosk link leads to homepage - it’s most likely expired since they usually last only one month.
 (you can try to look for reuploads. Look for the recent posts with word 제업 or ㅈㅇ + mod name)  
 
-![reupload](images/reupload.png)
+![reupload](images/reupload.png)  
+
+## 3) Password  
+
+So what the hell is “**국룰**” or “**ㄱㄹ**” (Also known as “_national rule_”)?  
+It's korean slang and to put it simply, national rule is something obvious that everyone should know. In this case it’s the secret word that koreans know and instead of mentioning it they simply say “국룰”  
+
+So how to find it? Click on **공지** then scroll down and look for **the post with title "국룰"**
+
