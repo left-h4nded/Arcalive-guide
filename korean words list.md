@@ -1,8 +1,8 @@
-Сommon and not so common words you'll encounter on Arcalive:
-(use CTRL+F for quick search)
+# Сommon and not so common words you'll encounter on Arcalive:
+(use CTRL+F for quick search)  
 
-NOTE: If password has date in it, the numbers are written as MonthDay (for example, Christmas would be 1225)
-If password need year as well then it's YearMonthDay (25th December 2024 will be 20241225)
+### NOTE: If password has date in it, the numbers are written as MonthDay (for example, Christmas would be 1225)  
+### If password need year as well then it's YearMonthDay (25th December 2024 will be 20241225)
 
 
 
@@ -57,38 +57,38 @@ qq: rf - same as "ㅂㅂ: ㄱㄹ" (it's used to confuse people lol)
 특문제외 or 특문X - excluding special characters (?, @, !, #, *...)
 
 속성 - attribute/element (lightning, fire, ice, quantum) (for ZZZ and HSR)
-	전기 - electric (ZZZ)
-	번개 - lightning (HSR)
-	불 - fire (ZZZ)
-	화염 - fire (HSR)
-	바람 - wind
-	양자 - quantum
-	허수 - imaginary
-	얼음 - ice
-	서리 - frost
-	물리 - physical
-	에테르- ether
+- 전기 - electric (ZZZ)
+- 번개 - lightning (HSR)
+- 불 - fire (ZZZ)
+- 화염 - fire (HSR)
+- 바람 - wind
+- 양자 - quantum
+- 허수 - imaginary
+- 얼음 - ice
+- 서리 - frost
+- 물리 - physical
+- 에테르- ether
 
 운명의 길 - path (destruction, hunt, erudition) (for HSR)
-	파멸 - destruction
-	수렵 - the hunt
-	지식 - erudition
-	화합 - harmony
-	공허 - nihility
-	보존 - preservation
-	풍요 - abundance
-	기억 - remembrance
+- 파멸 - destruction
+- 수렵 - the hunt
+- 지식 - erudition
+- 화합 - harmony
+- 공허 - nihility
+- 보존 - preservation
+- 풍요 - abundance
+- 기억 - remembrance
 
 운명의 자리 - constellation (for Genshin)
 
 신의 눈 - vision (pyro, electro, cryo, anime) (for Genshin)
-	바람 - anemo
-	물 - hydro
-	바위 - geo
-	번개 - electro
-	풀 - dendro
-	불 - pyro
-	얼음 - cryo
+- 바람 - anemo
+- 물 - hydro
+- 바위 - geo
+- 번개 - electro
+- 풀 - dendro
+- 불 - pyro
+- 얼음 - cryo
 
 소속 - faction (Belobog, Stellaron Hunters, Victoria Housekeeping, etc..)
 
