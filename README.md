@@ -6,13 +6,16 @@ long as you do it quietly and don't spam everywhere things like "password pls" a
 ![announcement](images/0.png)
 
 ## 1) This is what Arcalive looks like ## 
-You don't have to register unless you want NSFW mods. I hope you can figure out navigation, use translator if needed.  ![mainpage](images/1.png)  
+You don't have to register unless you want NSFW mods.  
+
+![mainpage](images/1.png)  
+![how to change language](images/language.png)
 - Top Search Bar: you can find many groups for different games and stuff (basically it's korean Reddit lol)  
 As for gacha games modding there are two main groups:
   - **미호요스킨모드 채널** - Genshin, HSR, ZZZ
   - **명조 모딩 채널** - Wuwa
 - Bottom Search Bar: you can find posts and mods. There you can enter korean names of characters.  
-  Characters' names in korea:
+  Characters' names in korean:
   - Genshin: https://genshin-builds.com/ko/characters
   - HSR: https://genshin-builds.com/ko/hsr
   - ZZZ: https://genshin-builds.com/ko/zenless
