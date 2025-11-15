@@ -85,7 +85,8 @@ it can be:
 There are so many variants so people who upload mods should clarify it as:  
 national rule + something (this can be text, pictures, or a GIF, as shown below) 
 
-❗Here are lists of pictures they attach to password that I've translated (These pictures are not used as often lately tho)
+❗Here are lists of pictures they attach to password that I've translated  
+(These pictures are not used as often lately tho)
 
 - List 1: https://imgur.com/a/arcalive-emoticons-list-5iPEi8C 
 - List 2: https://imgur.com/a/rip-eyes-lol-EjGQFGA (these are very rare)
