@@ -164,14 +164,14 @@ In these two examples above if you kinda "squish" these symbols you can kinda ca
 
 ![img](images/wtf4.png)
 
-At this point I'm sorry but there is no way someone can solve it without knowing korean...  
+Looking at this I'm sorry because there is no way someone can solve it without knowing korean...  
 Symbols itself arranged in the shape of "국룰" and those symbols make other words...  
 And the last one is f#cked up because every character here is wrong and the result just _resembles_ the right word lmao  
 But thank god that author of these puzzles is tired of making them so I hope it won't show up in the future lol  
 
 ### 6) Whatever uploader wanted. It can be literally anything 💀  
 
-At this point just try to ask ChatGPT, do some extensive googling or ask someone else lol
+At this point just try asking ChatGPT, do some extensive googling or ask someone else lol
 
 ![img](images/21.png)  
 
