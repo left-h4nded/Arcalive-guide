@@ -74,7 +74,13 @@ So… is “*******” = password for downloading all korean mods? Partially... 
 
 ## Types Of Password
 
-### 1) The most simple one and yeah, that's just national rule itself  
+### 1) The most simple one and yeah, that's just the national rule itself  
+
+Usually written as:
+- 국룰
+- ㄱㄹ
+- 비번 국룰
+- ㅂㅂㄱㄹ
 
 ### 2) National rule + numbers or symbols
 it can be:
