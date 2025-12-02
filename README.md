@@ -12,6 +12,7 @@ This is what Arcalive looks like. You don't have to register unless you want NSF
 
 ![mainpage](images/1.png)  
 ![how to change language](images/language.png)
+![mainpageenglish](images/main-english.png)
 - Top Search Bar: you can find many groups for different games and stuff (basically it's korean Reddit lol)  
 As for gacha games modding there are two main groups:
   - **미호요스킨모드 채널** - Genshin, HSR, ZZZ
