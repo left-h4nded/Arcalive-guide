@@ -48,7 +48,7 @@ You can try finding reupload of mods. Search for the recent posts with word 제�
 
 ![reupload](images/reupload.png)  
 
-## 3) Password  
+## 3) Password and "National Rule" 
 
 So what the hell is “**국룰**” or “**ㄱㄹ**” (Also known as “_national rule_”)?  
 It's korean slang and to put it simply, national rule is something obvious that everyone should know. In this case it’s the secret word that koreans know and instead of mentioning it they simply say “국룰”  
