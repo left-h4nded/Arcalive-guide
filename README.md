@@ -61,9 +61,11 @@ So how to find it? Click on **공지** then scroll down and look for **the post 
 
 ![how to find nr](images/9.png)
 
-### Note: just in case, DO NOT ENTER 국룰 itself lol  
+### Note: just in case, DO NOT ENTER "국룰" itself as password lol  
 
 ![how to find nr](images/10.png)  
+
+Pretty simple: if you see 국룰/ㄱㄹ - it's "g******" !
 
 ### For Wuwa players:  
 
@@ -71,11 +73,12 @@ Unlike Hoyoverse modding community, Wuwa’s password is easily accessible:
 
 ![wuwa](images/11_wuwa_nr.png)
 
-So… is “*******” = password for downloading all korean mods? Partially... Let me explain in the next section! :D
+### So… is “*******” = password for downloading all korean mods? Partially... Let me explain in the next section! :D
+
 
 ## Types Of Password
 
-### 1) The most simple one and yeah, that's just the national rule itself  
+### Type 1: The most simple one and yeah, that's just the national rule itself  
 
 Usually written as:
 - 국룰
@@ -83,11 +86,15 @@ Usually written as:
 - 비번 국룰
 - ㅂㅂㄱㄹ
 
-### 2) National rule + numbers or symbols
+### Type 2: National rule + numbers or symbols
 it can be:
 - character's name/birthday/attribute/vision/path/whatever
 - date of upload or any other date
 - special characters (@,!,#,%,etc.)
+
+Usually written as:
+- 국룰 케릭터 생일 / 이름 / 속성 etc.
+- 국룰! / 국룰@
 
 There are so many variants so people who upload mods should clarify it as:  
 national rule + something (this can be text, pictures, or a GIF, as shown below) 
@@ -104,7 +111,7 @@ national rule + something (this can be text, pictures, or a GIF, as shown below)
 
 Next we have more "special" types of passwords! :D
 
-### 3) English/Korean keyboard layout conversion shenanigans  
+### Type 3: English/Korean keyboard layout conversion shenanigans  
 
 Some people have encountered 한타/영타/영문 combined with national rule:
 
@@ -129,7 +136,7 @@ For a better understanding take a look on korean keyboard:
 
 ![img](images/15.2_conversion.png)  
 
-### 4) Passwords with pictures  
+### Type 4: Passwords with pictures  
 
 Uploader uses random picture with text on it for their password which looks like something like this:
 
@@ -157,7 +164,7 @@ On some pictures it's quite difficult to determine what symbols are there if you
 You can ask someone else or try to learn hangul, it’s pretty simple tbh  
 Also I can’t make a list with these pictures because there are hundreds of them and new ones uploaded almost everyday…
 
-### 5) Words with its each symbol separated
+### Type 5: Words with its each symbol separated
 
 This type of password appeared recently :v  
 As the name says, uploader writes word which you have to add to N.Rule but each symbol is separated  
@@ -176,7 +183,7 @@ Symbols itself arranged in the shape of "국룰" and those symbols make other wo
 And the last one is f#cked up because every character here is wrong and the result just _resembles_ the right word lmao  
 But thank god that author of these puzzles is tired of making them so I hope it won't show up in the future lol  
 
-### 6) Whatever uploader wanted. It can be literally anything 💀  
+### Type 6: Whatever uploader wanted. It can be literally anything 💀  
 
 At this point just try asking ChatGPT, do some extensive googling or ask someone else lol
 
