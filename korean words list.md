@@ -20,13 +20,13 @@
 
 출시일 - release date
 
-한타 ( sometimes 한글타자) - korean layout (Hanta. explained in the guide, check "special type of passwords" section)
+한타/한글타자/한글/한글로 - korean layout (Hanta. explained in the guide, check Type #3 passwords)
 
-영타 or 영문 - english layout
+영타/영문/영어 - english layout
 
-ㄱㄱ (기간) - duration (how long it is available to download)
+ㄱㄱ or 기간 - duration (how long it is available to download)
 
-ㄱㄱㅎㄷ(기간한달) - one month period (mod download availability)
+ㄱㄱㅎㄷ or 기간한달 - one month period (mod download availability)
 
 만료 or 만료일 - expiration date
 
