@@ -35,7 +35,8 @@ As for gacha games modding there are two main groups:
 
 In the post there will be a string of letters and numbers which you have to decode using  
 [Base64 online decoder](https://www.base64decode.org/) (after decoding it will give you a link to download mod)  
-**Note:** In rare cases, you may need to decode it more than once.
+> [!NOTE]
+> In rare cases, you may need to decode it more than once.
 
 ![string](images/5.1.png)  
 
@@ -45,9 +46,8 @@ Now you are on the mod download page (most likely Nahidalive or Kiosk)
 To download it, you have to enter the password (sometimes there are mods without password)   
 
 ![DL page](images/6.png)
-### Note:   
-If the <ins>Kiosk</ins> link leads to homepage - it’s most likely expired since they usually last only one month.  
-You can try finding reupload of mods. Search for the recent posts with word 제업 or ㅈㅇ + mod name  
+> [!NOTE]
+> If a link is expired, you can try finding <ins>reupload</ins> of mods. Search for the recent posts with word 제업 or ㅈㅇ + mod name  
 
 ![reupload](images/reupload.png)  
 
@@ -64,7 +64,8 @@ So how to find it? Click on **공지** then scroll down and look for **the post 
 
 ![how to find nr](images/9.png)
 
-### Note: just in case, DO NOT ENTER "국룰" itself as password lol  
+> [!WARNING]
+> Just in case, DO NOT ENTER "국룰, ㄱㄹ" itself as password lol  
 
 ![how to find nr](images/10.png)  
 
@@ -150,7 +151,8 @@ These pictures are called 아카콘 or Arcacon (Arca+emoticon). You can try to t
 - https://kanji.reader.bz/korean/
 
 Just draw what you see as accurate as you can and it will convert your drawing to an actual text. (examples shown below)  
-_Note:_ if there are special characters in image's text, in 90% cases you should exclude them unless told otherwise.
+> [!NOTE]
+> If there are special characters in image's text, in 90% cases you should exclude them unless told otherwise.
 
 ![example](images/17.png)  
 
