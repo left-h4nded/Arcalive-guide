@@ -1,5 +1,8 @@
-📰Korean words list: [link](https://github.com/left-h4nded/Arcalive-guide/blob/main/korean%20words%20list.md) / Arcalive emoticons: [list#1](https://imgur.com/a/arcalive-emoticons-list-5iPEi8C), [list#2](https://imgur.com/a/rip-eyes-lol-EjGQFGA)  
-🛠️Tools: [ENG/KR keyboard converter](https://wepplication.github.io/tools/eng2Kor/) / [Kanji reader](https://kanji.reader.bz/korean/)
+> [!TIP]
+>📰Korean words list: [link](https://github.com/left-h4nded/Arcalive-guide/blob/main/korean%20words%20list.md) / Arcalive emoticons: [list#1](https://imgur.com/a/arcalive-emoticons-list-5iPEi8C), [list#2](https://imgur.com/a/rip-eyes-lol-EjGQFGA)  
+🛠️Tools: [ENG/KR keyboard converter](https://wepplication.github.io/tools/eng2Kor/) / [Kanji reader](https://kanji.reader.bz/korean/)  
+
+
 # How to download korean mods from Arcalive
 To respect the Korean community I won't share any arcalive links, passwords and mods itself.
 This guide is made to help you get mods **yourself**. Koreans don't mind you downloading their mods as
