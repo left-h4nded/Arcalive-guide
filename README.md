@@ -65,7 +65,7 @@ So how to find it? Click on **공지** then scroll down and look for **the post 
 ![how to find nr](images/9.png)
 
 > [!WARNING]
-> Just in case, DO NOT ENTER "국룰, ㄱㄹ" itself as password lol  
+> Just in case, DO NOT ENTER 국룰 itself as password lol  
 
 ![how to find nr](images/10.png)  
 
